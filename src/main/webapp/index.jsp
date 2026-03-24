@@ -1,6 +1,7 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<h2>My name is Jorge</h2>
+<p>My name is Jorge</p>
+<p>Devops course!!</p>
 </body>
 </html>
